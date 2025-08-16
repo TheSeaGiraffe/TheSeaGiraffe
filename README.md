@@ -3,8 +3,8 @@
 ## About me
 
 - 💻 Developer at [Agrisoft Systems](https://www.agrisoft-systems.com/) creating solutions for oil palm plantation management
--  Deep learning enthusiast with an interest in LLMs and AI agents
--  In the process of learning more about the back-end and web development
+- 🤖 Deep learning enthusiast with an interest in LLMs and AI agents
+- 👨‍💻 In the process of learning more about the back-end and web development
 
 **Currently looking for new opportunities**
 
