@@ -3,8 +3,12 @@
 ## About me
 
 - 💻 Developer at [Agrisoft Systems](https://www.agrisoft-systems.com/) creating solutions for oil palm plantation management
-- 🤖 Deep learning enthusiast with an interest in LLMs and AI agents
-- 👨‍💻 In the process of learning more about the back-end and web development
+- 📈 I have a strong interest in data science and related fields like machine learning and
+  statistics
+- 🤖 Deep learning enthusiast with a love for all things LLM. I also have a passing
+  interest in computer vision
+- 👨‍💻 In the process of learning more about the back-end and web development. Hoping to use
+  this knowledge to develop cloud-based ML applications.
 
 **Currently looking for new opportunities**
 
@@ -19,12 +23,15 @@
 
 ### Technologies
 
+- FastAPI
 - PyTorch
 - Pandas
+- Polars
 - scikit-learn
 - Hugging Face
 - Docker
 - HTMX
+- Tailwind CSS
 - Postgres
 - MS SQL Server
 
